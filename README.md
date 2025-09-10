@@ -47,7 +47,7 @@ Some examples of charts generated in Python:
 - **Weekly Trend of Casual vs Registered Users** (line chart)  
 - **Effect of Windspeed on Rentals** (scatter plot)  
 
-👉 More plots are available in the `/visuals` folder.
+👉 More plots are available in the `/plots` folder.
 
 ---
 
