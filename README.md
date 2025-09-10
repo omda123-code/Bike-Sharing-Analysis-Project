@@ -60,12 +60,11 @@ Some examples of charts generated in Python:
 
 ---
 
-## 📌 Files in Repository
-- `data/` → Original dataset  
+## 📌 Files in Repository 
 - `sql/` → SQL queries  
-- `python_scripts/` → Python notebooks & scripts for analysis  
-- `visuals/` → Exported charts (PNG format)  
-- `powerbi/` → Power BI dashboard (to be added)  
+- `python/` → Python notebooks & scripts for analysis  
+- `plots/` → Exported charts (PNG format)  
+- `powerbi/` → Power BI dashboard  
 - `report.pdf` → Analytical report with findings  
 
 ---
